@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Ochy-Brian  a data science and machine learning enthusiast  
+- 👀 I’m interested in ...machine learning and data science and also artificial intelligence
+- 🌱 I’m currently learning ...python,sql,html,css
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...my linked in and website
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ...
+
+<!---
+Ochy-Brian/Ochy-Brian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
